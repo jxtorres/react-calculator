@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/calculator/static/css/main.f89f2e89.chunk.css",
-    "main.js": "/calculator/static/js/main.852abe99.chunk.js",
-    "main.js.map": "/calculator/static/js/main.852abe99.chunk.js.map",
-    "runtime~main.js": "/calculator/static/js/runtime~main.2539f434.js",
-    "runtime~main.js.map": "/calculator/static/js/runtime~main.2539f434.js.map",
-    "static/css/2.f87fbcaa.chunk.css": "/calculator/static/css/2.f87fbcaa.chunk.css",
-    "static/js/2.e35843d7.chunk.js": "/calculator/static/js/2.e35843d7.chunk.js",
-    "static/js/2.e35843d7.chunk.js.map": "/calculator/static/js/2.e35843d7.chunk.js.map",
-    "index.html": "/calculator/index.html",
-    "precache-manifest.d26c6b078e647f7d4704b2614639f85b.js": "/calculator/precache-manifest.d26c6b078e647f7d4704b2614639f85b.js",
-    "service-worker.js": "/calculator/service-worker.js",
-    "static/css/2.f87fbcaa.chunk.css.map": "/calculator/static/css/2.f87fbcaa.chunk.css.map",
-    "static/css/main.f89f2e89.chunk.css.map": "/calculator/static/css/main.f89f2e89.chunk.css.map"
+    "main.css": "/calculatorgame/static/css/main.f89f2e89.chunk.css",
+    "main.js": "/calculatorgame/static/js/main.852abe99.chunk.js",
+    "main.js.map": "/calculatorgame/static/js/main.852abe99.chunk.js.map",
+    "runtime~main.js": "/calculatorgame/static/js/runtime~main.4fd0d9df.js",
+    "runtime~main.js.map": "/calculatorgame/static/js/runtime~main.4fd0d9df.js.map",
+    "static/css/2.f87fbcaa.chunk.css": "/calculatorgame/static/css/2.f87fbcaa.chunk.css",
+    "static/js/2.e35843d7.chunk.js": "/calculatorgame/static/js/2.e35843d7.chunk.js",
+    "static/js/2.e35843d7.chunk.js.map": "/calculatorgame/static/js/2.e35843d7.chunk.js.map",
+    "index.html": "/calculatorgame/index.html",
+    "precache-manifest.18835d19e47854de63e6a2c1fae46386.js": "/calculatorgame/precache-manifest.18835d19e47854de63e6a2c1fae46386.js",
+    "service-worker.js": "/calculatorgame/service-worker.js",
+    "static/css/2.f87fbcaa.chunk.css.map": "/calculatorgame/static/css/2.f87fbcaa.chunk.css.map",
+    "static/css/main.f89f2e89.chunk.css.map": "/calculatorgame/static/css/main.f89f2e89.chunk.css.map"
   }
 }
