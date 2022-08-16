@@ -1,8 +1,8 @@
 {
-  "name": "react-calculator",
+  "name": "react-calculator-game",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://jxtorres.github.io/calculatorgame",
+  "homepage": "http://jxtorres.github.io/react-calculator-game",
   "devDependencies": {
     "fsevents": "2.0.6",
     "chai": "^4.2.0",
