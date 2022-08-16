@@ -1,15 +1,22 @@
-Calculator
+Calculator Modulus Game
 ---
-<img src="Logotype primary.png" width="60%" height="60%" />
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+Game to reach Zero with fewest moves.
+
+GAME INSTRUCTIONS:
+1. Press AC.
+2. Start Pressing Number keys to reduce the total.
+3. Reach Zero.
+
+Calculator Logic Forked from ahfarmer/calculator. 
 
 
 
 Try It
 ---
 
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+[jxtorres.github.io/react-calculator-game](https://jxtorres.github.io/react-calculator-game/)
 
 
 
